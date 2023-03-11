@@ -65,4 +65,4 @@ Case #: total hours, accent qty, regular qty
 
 
     Case #1: 75.00, 12.50, 37.50
-    Case #2: 159.00, 26.50, 79.50
+    Case #2: 159.00, 26.50, 79.50# The-Math-Wizard
